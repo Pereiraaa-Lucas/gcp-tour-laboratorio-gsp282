@@ -36,16 +36,27 @@ Neste laboratório introdutório, os principais objetivos foram:
 2. Avalie o laboratório e conclua a sessão de aprendizado.
 ---
 
-## 📸 Evidências do Laboratório
-Aqui estão algumas das capturas de tela registradas durante a execução das tarefas do laboratório GSP282:
+## 📸 Evidências do Laboratório (Passo a Passo)
+Abaixo estão as capturas de tela organizadas na ordem sequencial de execução das tarefas do laboratório:
+### Início e Credenciais (Tarefa 1)
 
-| Visão Inicial / Recursos | Painel de Credenciais | Tela de Escolha de Conta |
+| Visão Inicial do Laboratório | Painel de Credenciais (Username e Senha) | Tela de Login / Escolha de Conta |
 | :--- | :--- | :--- |
-| ![Passo 1](GxSQWaks6svW0PQUReMiMyf10SL1l7AT-USrt004WuC2Y=-png) | ![Passo 2](VveV7luPXEDf39QBcF0JuAZpD1-png) | ![Passo 3](eQ6xrPnN13GjIJP3RWIHWWiMhI2Xf1AL7WPw=-png) |
+| ![Início](GxSQWaks6svW0PQUReMiMyf10SL1l7AT-USrt004WuC2Y=-png) | ![Credenciais](VveV7luPXEDf39QBcF0JuAZpD1-png) | ![Login](eQ6xrPnN13GjIJP3RWIHWWiMhI2Xf1AL7WPw=-png) |
 
-| Informações do Projeto | Menu de Navegação | Painel IAM & Admin | API Habilitada |
-| :--- | :--- | :--- | :--- |
-| ![Passo 4](kaHKc2t7OyP7YUP0J4IqwSnxJEQvtDtypsu0eqjkrNw=-png) | ![Passo 5](nUXfB6e0FR435D2l6V-AVY.lAjzDFcrFh16C9hHWpGIzU=-png) | ![Passo 6](VpoV-AmPXEDf39QRCf0JUkA7pD8-7PgJRMSFmmDy2awk=-png) | ![Passo 7](eTgnbsNxLaqrex7cumvUzu0Ec114GenoM-Y8xL4J594=-png) |
+---
+### Projetos e Navegação (Tarefa 2)
+
+| Informações do Projeto (Project Info) | Menu de Navegação do Console |
+| :--- | :--- |
+| ![Projeto](kaHKc2t7OyP7YUP0J4IqwSnxJEQvtDtypsu0eqjkrNw=-png) | ![Menu](nUXfB6e0FR435D2l6V-AVY.lAjzDFcrFh16C9hHWpGIzU=-png) |
+
+---
+### Permissões e APIs (Tarefas 3, 4 e 5)
+
+| Painel IAM & Admin (Gerenciamento de Papéis) | API Habilitada com Sucesso (Dialogflow API) |
+| :--- | :--- |
+| ![IAM](VpoV-AmPXEDf39QRCf0JUkA7pD8-7PgJRMSFmmDy2awk=-png) | ![API](eTgnbsNxLaqrex7cumvUzu0Ec114GenoM-Y8xL4J594=-png) |
 
 ---
 ## 💡 Conclusão
