@@ -35,7 +35,6 @@ Neste laboratório introdutório, os principais objetivos foram:
 1. Após concluir todas as tarefas e validações, clique em **Terminar o laboratório** e depois em **Enviar** para confirmar.
 2. Avalie o laboratório e conclua a sessão de aprendizado.
 ---
-
 ## 📸 Evidências do Laboratório (Passo a Passo)
 Abaixo estão as capturas de tela organizadas na ordem sequencial de execução das tarefas do laboratório:
 ### Início e Credenciais (Tarefa 1)
