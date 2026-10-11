@@ -37,26 +37,14 @@ Neste laboratório introdutório, os principais objetivos foram:
 ---
 
 ## 📸 Evidências do Laboratório (Passo a Passo)
-Abaixo estão as capturas de tela organizadas na ordem sequencial de execução das tarefas do laboratório:
-### Início e Credenciais (Tarefa 1)
 
-| Visão Inicial do Laboratório | Painel de Credenciais (Username e Senha) | Tela de Login / Escolha de Conta |
+| Tarefa 1: Início e Console | Tarefa 2: Projetos |
+| :--- | :--- |
+| ![Tarefa 1](assets/tarefa1.png) | ![Tarefa 2](assets/tarefa2.png) |
+
+| Tarefa 3: IAM e Permissões | Tarefa 4: APIs e Serviços | Tarefa 5: Conclusão |
 | :--- | :--- | :--- |
-| ![Início](GxSQWaks6svW0PQUReMiMyf10SL1l7AT-USrt004WuC2Y=-png) | ![Credenciais](VveV7luPXEDf39QBcF0JuAZpD1-png) | ![Login](eQ6xrPnN13GjIJP3RWIHWWiMhI2Xf1AL7WPw=-png) |
-
----
-### Projetos e Navegação (Tarefa 2)
-
-| Informações do Projeto (Project Info) | Menu de Navegação do Console |
-| :--- | :--- |
-| ![Projeto](kaHKc2t7OyP7YUP0J4IqwSnxJEQvtDtypsu0eqjkrNw=-png) | ![Menu](nUXfB6e0FR435D2l6V-AVY.lAjzDFcrFh16C9hHWpGIzU=-png) |
-
----
-### Permissões e APIs (Tarefas 3, 4 e 5)
-
-| Painel IAM & Admin (Gerenciamento de Papéis) | API Habilitada com Sucesso (Dialogflow API) |
-| :--- | :--- |
-| ![IAM](VpoV-AmPXEDf39QRCf0JUkA7pD8-7PgJRMSFmmDy2awk=-png) | ![API](eTgnbsNxLaqrex7cumvUzu0Ec114GenoM-Y8xL4J594=-png) |
+| ![Tarefa 3](assets/tarefa3.png) | ![Tarefa 4](assets/tarefa4.png) | ![Tarefa 5](assets/tarefa5.png) |
 
 ---
 ## 💡 Conclusão
