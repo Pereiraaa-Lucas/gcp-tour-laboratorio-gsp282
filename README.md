@@ -38,14 +38,40 @@ Neste laboratório introdutório, os principais objetivos foram:
 
 ## 📸 Evidências do Laboratório (Passo a Passo)
 
-| Tarefa 1: Início e Console | Tarefa 2: Projetos |
-| :--- | :--- |
-| ![Tarefa 1](assets/tarefa1.png) | ![Tarefa 2](assets/tarefa2.png) |
+Abaixo estão as capturas de tela organizadas na ordem sequencial de execução das tarefas do laboratório:
+### Tarefa 1: Início e Console
 
-| Tarefa 3: IAM e Permissões | Tarefa 4: APIs e Serviços | Tarefa 5: Conclusão |
-| :--- | :--- | :--- |
-| ![Tarefa 3](assets/tarefa3.png) | ![Tarefa 4](assets/tarefa4.png) | ![Tarefa 5](assets/tarefa5.png) |
+| Visão Inicial do Laboratório |
+| :--- |
+| ![Tarefa 1](assets/tarefa1.png) |
 
+---
+### Tarefa 2: Projetos no Console
+
+| Informações do Projeto |
+| :--- |
+| ![Tarefa 2](assets/tarefa2.png) |
+
+---
+### Tarefa 3: Papéis e Permissões (IAM)
+
+| Painel IAM & Admin |
+| :--- |
+| ![Tarefa 3](assets/tarefa3.png) |
+
+---
+### Tarefa 4: Ativar APIs e Serviços
+
+| API Habilitada (Dialogflow) |
+| :--- |
+| ![Tarefa 4](assets/tarefa4.png) |
+
+---
+### Tarefa 5: Finalizar o Laboratório
+
+| Tela de Conclusão / Progresso |
+| :--- |
+| ![Tarefa 5](assets/tarefa5.png) |
 ---
 ## 💡 Conclusão
 O laboratório proporcionou uma base essencial para entender a navegação na interface do Google Cloud, a gestão de projetos temporários, o controle de acesso por meio do Identity and Access Management (IAM) e a ativação de APIs essenciais para o desenvolvimento em nuvem.
