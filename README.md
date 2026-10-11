@@ -35,15 +35,17 @@ Neste laboratório introdutório, os principais objetivos foram:
 1. Após concluir todas as tarefas e validações, clique em **Terminar o laboratório** e depois em **Enviar** para confirmar.
 2. Avalie o laboratório e conclua a sessão de aprendizado.
 ---
+
 ## 📸 Evidências do Laboratório
+Aqui estão algumas das capturas de tela registradas durante a execução das tarefas do laboratório GSP282:
 
-| Painel de Detalhes e Credenciais | Informações do Projeto |
-| :--- | :--- |
-| ![Detalhes](assets/1000527371.png) | ![Projeto](assets/1000527373.png) |
+| Visão Inicial / Recursos | Painel de Credenciais | Tela de Escolha de Conta |
+| :--- | :--- | :--- |
+| ![Passo 1](GxSQWaks6svW0PQUReMiMyf10SL1l7AT+USrt004WuC2Y=-png) | ![Passo 2](VveV7luPXEDf39QBcF0JuAZpD1-png) | ![Passo 3](eQ6xrPnN13GjIJP3RWIHWWiMhI...-png) |
 
-| Gerenciamento de IAM | API Habilitada |
-| :--- | :--- |
-| ![IAM](assets/1000527375.png) | ![API](assets/1000527376.png) |
+| Informações do Projeto | Menu de Navegação | Painel IAM & Admin | API Habilitada |
+| :--- | :--- | :--- | :--- |
+| ![Passo 4](kaHKc2t7OyP7YUP0J4IqwSnxJEQvtDtypsu0eqjkrNw=-png) | ![Passo 5](nUXfB6e0FR435D2l6V/AVY.lAjzDFcrFh16C9hHWpGIzU=-png) | ![Passo 6](VpoV-AmPXEDf39QRCf0JUkA7pD8/7PgJRMSFmmDy2awk=-png) | eTgnbsNxLaqrex7cumvUzu0Ec114GenoM-Y8xL4J594=-png |
 
 ---
 ## 💡 Conclusão
