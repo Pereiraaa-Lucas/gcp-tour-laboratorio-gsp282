@@ -37,9 +37,13 @@ Neste laboratório introdutório, os principais objetivos foram:
 ---
 ## 📸 Evidências do Laboratório
 
-| Visão Geral do Laboratório | Painel de Detalhes e Credenciais | Gerenciamento de APIs |
-| :--- | :--- | :--- |
-| ![Visão Geral](assets/1000527350.png) | ![Detalhes](assets/1000527355.png) | ![APIs](assets/1000527362.png) |
+| Painel de Detalhes e Credenciais | Informações do Projeto |
+| :--- | :--- |
+| ![Detalhes](assets/1000527371.png) | ![Projeto](assets/1000527373.png) |
+
+| Gerenciamento de IAM | API Habilitada |
+| :--- | :--- |
+| ![IAM](assets/1000527375.png) | ![API](assets/1000527376.png) |
 
 ---
 ## 💡 Conclusão
